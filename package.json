@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://sydorovay.github.io/ice-cream-team-project",
+  "homepage": "https://Hantamico.github.io/goit-teamProject-IceCream/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-team-project/"
+    "build": "parcel build src/*.html --public-url /goit-teamProject-IceCream/"
   },
   "repository": {
     "type": "git",

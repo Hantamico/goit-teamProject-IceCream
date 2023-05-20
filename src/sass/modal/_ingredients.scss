@@ -2,7 +2,7 @@
 	position: fixed;
 	opacity: 0;
 	visibility: hidden;
-    max-height: 100%;
+	max-height: 100%;
 	overflow-y: scroll;
 	max-width: 568px;
 	left: 50%;
@@ -48,8 +48,7 @@
 	margin: auto;
 }
 
-
-@media screen and (min-width:480px){
+@media screen and (min-width: 480px) {
 	.boxes:not(:last-child) {
 		margin-right: 9px;
 	}
@@ -70,8 +69,6 @@
 	}
 }
 
-
-
 .boxes {
 	display: flex;
 	width: 65px;
@@ -86,7 +83,7 @@
 	justify-content: center;
 }
 
-@media screen and (min-width:767px){
+@media screen and (min-width: 767px) {
 	.boxes:not(:last-child) {
 		margin-right: 20px;
 	}
@@ -106,8 +103,6 @@
 		outline: none;
 	}
 }
-
-
 
 .grams {
 	width: 53px;
@@ -184,8 +179,6 @@
 .comment {
 	padding-bottom: 32px;
 }
-
-
 
 ::placeholder {
 	font-family: 'Montserrat';
